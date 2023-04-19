@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @VladNF
 - 👀 I’m interested in backend development with Python/Go/C++
-- 🌱 I’m currently learning modern C++ servers implementation
-- 💞️ I’m looking to collaborate on C++ development
 - 📫 How to reach me: TG @VladNF
 
 <!---
